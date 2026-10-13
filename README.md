@@ -8,12 +8,12 @@ O projeto possui filtros por ano, análise mensal e semanal, ranking completo do
 
 ### Modo Escuro
 
-![Dashboard em modo escuro](<img width="1343" height="665" alt="Captura de tela 2026-10-12 211447" src="https://github.com/user-attachments/assets/a437cc50-511a-457a-b555-4dfe0132193e" />
+![Dashboard em modo escuro](<img width="1295" height="641" alt="image" src="https://github.com/user-attachments/assets/6c0468d4-1c6a-43ca-8d8c-dadf33004672" />
 )
 
 ### Modo Claro
 
-![Dashboard em modo claro](<img width="1340" height="662" alt="Captura de tela 2026-10-12 211503" src="https://github.com/user-attachments/assets/5ebc6f28-a4a9-4386-ae15-5e0901ed74f4" />
+![Dashboard em modo claro](<img width="1297" height="644" alt="image" src="https://github.com/user-attachments/assets/c3279968-431d-4d40-a570-09149bead798" />
 )
 
 ## Objetivo do Projeto
